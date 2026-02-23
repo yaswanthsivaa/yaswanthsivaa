@@ -1,10 +1,12 @@
 <div align="center">
 
 # Yaswanth Reddy  
-**Aspiring Software Engineer · Python · DSA**
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <b>Aspiring Software Engineer · Python · DSA</b>
+</marquee>
 
 </div>
-
 ---
 
 ## 👋 Quick Intro
