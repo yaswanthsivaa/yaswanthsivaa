@@ -1,6 +1,9 @@
 <div align="center">
 
-# Yaswanth Reddy  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=1500&center=true&vCenter=true&width=700&color=FACC15&lines=Yaswanth+Reddy" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&vCenter=true&width=700&color=38BDF8&lines=Aspiring+Software+Engineer;Interview+Ready+Problem+Solver;Consistent+Daily+Practice" />
 </p>
