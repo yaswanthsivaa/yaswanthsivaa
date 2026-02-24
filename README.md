@@ -2,11 +2,9 @@
 
 # Yaswanth Reddy  
 
-<div align="center">
-
-### <span style="color:#00ffaa">Aspiring Software Engineer</span> · <span style="color:#ffaa00">Python</span> · <span style="color:#00aaff">DSA</span>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Python+%7C+DSA;Consistent+Daily+Practice" />
+</p>
 
 </div>
 ---
