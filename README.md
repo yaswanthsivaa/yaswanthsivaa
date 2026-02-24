@@ -8,14 +8,14 @@
 </div>
 ---
 
-## 👋 Quick Intro
+## Quick Intro
 
 I’m building strong fundamentals in **Data Structures & Algorithms using Python** and working on small web projects.  
 This profile is a snapshot of my learning journey, consistency, and problem-solving approach.
 
 ---
 
-## 🧩 What I’m Good At (So Far)
+## What I’m Good At (So Far)
 
 **Core DSA Patterns**
 - Arrays · Binary Search · Linked Lists  
@@ -29,7 +29,7 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 
 ---
 
-## 🗺️ Learning Roadmap
+## Learning Roadmap
 
 | Area                 | Status        |
 |----------------------|---------------|
@@ -48,7 +48,7 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 
 ---
 
-## 🧠 How I Solve Problems
+## How I Solve Problems
 
 - Understand constraints and edge cases  
 - Start with a simple approach  
@@ -58,7 +58,7 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 
 ---
 
-## 📂 Highlighted Work
+## Highlighted Work
 
 **DSA Practice (Python)**  
 → https://github.com/yaswanthsivaa/DSA-Practice  
@@ -70,7 +70,7 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 
 ---
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - Solve 300+ DSA problems  
 - Get confident with Trees, Graphs, DP  
@@ -79,7 +79,7 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/yaswanthsivaa  
 - LinkedIn: https://www.linkedin.com/in/yaswanthreddyg/
