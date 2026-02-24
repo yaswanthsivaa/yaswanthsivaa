@@ -2,9 +2,11 @@
 
 # Yaswanth Reddy  
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <b>Aspiring Software Engineer · Python · DSA</b>
-</marquee>
+<div align="center">
+
+### <span style="color:#00ffaa">Aspiring Software Engineer</span> · <span style="color:#ffaa00">Python</span> · <span style="color:#00aaff">DSA</span>
+
+</div>
 
 </div>
 ---
