@@ -2,7 +2,7 @@
 
 # Yaswanth Reddy  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&vCenter=true&width=700&color=3B82F6&lines=Aspiring+Software+Engineer;Python+%7C+DSA;Consistent+Daily+Practice" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&vCenter=true&width=700&color=3B82F6&lines=Aspiring+Software+Engineer;Interview+Ready+Problem+Solver;Consistent+Daily+Practice" />
 </p>
 
 </div>
