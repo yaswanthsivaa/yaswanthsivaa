@@ -3,20 +3,8 @@
 # Yaswanth Reddy  
 
 <p align="center">
-  <!-- Line 1: Blue -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&center=true&vCenter=true&width=700&color=3B82F6&lines=Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&center=true&vCenter=true&width=700&color=3B82F6&lines=Aspiring+Software+Engineer;Python+%7C+DSA;Consistent+Daily+Practice" />
 </p>
-
-<p align="center">
-  <!-- Line 2: Green -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&center=true&vCenter=true&width=700&color=22C55E&lines=Python+%7C+DSA" />
-</p>
-
-<p align="center">
-  <!-- Line 3: Purple -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1200&center=true&vCenter=true&width=700&color=A855F7&lines=Building+Strong+Problem+Solving+Skills" />
-</p>
-
 </div>
 ---
 
