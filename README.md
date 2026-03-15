@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&center=true&vCenter=true&width=700&color=FACC15&lines=Yaswanth+Reddy&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1200&pause=500&center=true&vCenter=true&width=700&color=FACC15&lines=Yaswanth+Reddy&repeat=false" />
 </p>
 
 <p align="center">
