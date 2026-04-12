@@ -45,8 +45,8 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 | Two Pointers         | ✅ Completed  |
 | Sorting              | ✅ Completed  |
 | Matrix               | ✅ Completed  |
-| Trees                | 🟡 In Progress |
-| Graphs               | 🔜 Next       |
+| Trees                | ✅ Completed  |
+| Graphs               | 🟡 In Progress |
 | Dynamic Programming  | 🔜 Next       |
 
 ---
