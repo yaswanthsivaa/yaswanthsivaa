@@ -9,12 +9,13 @@
 </p>
 
 </div>
+
 ---
 
 ## Quick Intro
 
-I’m building strong fundamentals in **Data Structures & Algorithms using Python** and working on small web projects.  
-This profile is a snapshot of my learning journey, consistency, and problem-solving approach.
+I’m building strong fundamentals in **Data Structures & Algorithms using Python** while also developing **full-stack web applications**.  
+This profile reflects my learning journey, consistency, and problem-solving mindset.
 
 ---
 
@@ -23,41 +24,42 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 **Core DSA Patterns**
 - Arrays · Binary Search · Linked Lists  
 - Stack · Strings · Sliding Window  
-- Two Pointers · Sorting · Matrix · Math
+- Two Pointers · Sorting · Matrix · Trees · Graphs
 
 **Programming**
 - Python (primary)  
-- Basic Web (HTML, CSS, JavaScript)  
+- HTML, CSS, JavaScript  
+- Full Stack Web Development  
 - Git & GitHub
 
 ---
 
 ## Learning Roadmap
 
-| Area                 | Status        |
-|----------------------|---------------|
-| Arrays               | ✅ Completed  |
-| Binary Search        | ✅ Completed  |
-| Linked Lists         | ✅ Completed  |
-| Stack                | ✅ Completed  |
-| Strings              | ✅ Completed  |
-| Sliding Window       | ✅ Completed  |
-| Two Pointers         | ✅ Completed  |
-| Sorting              | ✅ Completed  |
-| Matrix               | ✅ Completed  |
-| Trees                | ✅ Completed  |
-| Graphs               | 🟡 In Progress |
-| Dynamic Programming  | 🔜 Next       |
+| Area                 | Status         |
+|----------------------|----------------|
+| Arrays               | ✅ Completed   |
+| Binary Search        | ✅ Completed   |
+| Linked Lists         | ✅ Completed   |
+| Stack                | ✅ Completed   |
+| Strings              | ✅ Completed   |
+| Sliding Window       | ✅ Completed   |
+| Two Pointers         | ✅ Completed   |
+| Sorting              | ✅ Completed   |
+| Matrix               | ✅ Completed   |
+| Trees                | ✅ Completed   |
+| Graphs               | ✅ Completed   |
+| Dynamic Programming  | 🟡 In Progress |
 
 ---
 
 ## How I Solve Problems
 
 - Understand constraints and edge cases  
-- Start with a simple approach  
-- Optimize using known patterns  
-- Analyze time/space complexity  
-- Refactor for readability  
+- Start with a brute-force approach  
+- Optimize using known problem-solving patterns  
+- Analyze time and space complexity  
+- Refactor for clean, readable code  
 
 ---
 
@@ -66,9 +68,11 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 **DSA Practice (Python)**  
 → https://github.com/yaswanthsivaa/DSA-Practice  
 
-**Web Projects**
+**Full Stack Ecommerce Project**  
+→ https://fullstack-ecommerce-two-alpha.vercel.app/
+
+**Other Projects**
 - Weather Website  
-- Ecommerce  
 - Portfolio: https://yaswanthsivaa.github.io  
 
 ---
@@ -76,9 +80,9 @@ This profile is a snapshot of my learning journey, consistency, and problem-solv
 ## Goals for 2026
 
 - Solve 300+ DSA problems  
-- Get confident with Trees, Graphs, DP  
+- Master Dynamic Programming  
 - Crack software engineering interviews  
-- Build 2–3 solid real-world projects  
+- Build impactful full-stack projects  
 
 ---
 
